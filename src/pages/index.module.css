@@ -1,0 +1,11 @@
+.recommend_list {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr) ;
+    gap: 10px;   
+}
+
+.all_list {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr) ;
+    gap: 10px;    
+}
